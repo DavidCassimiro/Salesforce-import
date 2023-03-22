@@ -1,18 +1,18 @@
-"Carroceria__c","Marca__c","Name"
-"Sedan","#N/A","HB20S"
-"Sedan","#N/A","Prisma"
-"Sedan","#N/A","Logan"
-"Hatch","#N/A","Gol"
-"Hatch","#N/A","Onix"
-"Hatch","#N/A","Celta"
-"Coupe","#N/A","TTS"
-"Coupe","#N/A","R8"
-"Coupe","#N/A","Civic"
-"SUV","#N/A","Ix35"
-"SUV","#N/A","Chery tiggo 2"
-"SUV","#N/A","Veracruz"
-"Van","#N/A","Master"
-"Van","#N/A","Ducato"
-"Van","#N/A","Splinter"
-"Perua","#N/A","Parati"
-"Perua","#N/A","Quantum"
+"Cidade__c","Endereco__c","Estado__c","Name","Telefone__c"
+"Belém","Rua Ezequiel Ramos 53","PA","Belém","91 0800-0000"
+"São Bernardo do Campo","Rua do Sol 32","SP","São Bernardo do Campo","11 0800-0001"
+"Rio de Janeiro","Rua Carvalho Melo 12","RJ","Rio de Janeiro","21 0800-0002"
+"Salvador","Rua Dom Henrique 99","BA","Salvador","71 0800-0003"
+"Caxias do Sul","Rua Santa Rosa 93","RS","Caxias do Sul","54 0800-0004"
+"Palmas","Avenida Brasil 110","TO","Palmas","63 0800-0005"
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,

@@ -1,0 +1,18 @@
+Name,Descricao__c,Ativo__c,Conta__c,Localidade__c,Status__c,Tipo__c,Data__c
+TM Fashion Inverno,"Feira com foco em negócios de moda que traz a São Paulo grifes de calçados, bolsas e acessórios de luxo.",TRUE,1001,2,Pendente,Comercial,2020-03-21
+São Paulo Prêt a Porter,"Feira internacional de negócios para a indústria de moda, confecções e acessórios.",TRUE,1001,3,Pendente,Comercial,2020-03-22
+Couromoda,"A mais importante feira de calçados e artefatos de couro da América Latina, que atrai lojistas de todo o Brasil e de outros 66 países.",TRUE,1001,4,Pendente,Comercial,2020-04-23
+"Feira da Gestante, Bebê e Criança",Produtos e soluções para futuras mamães e famílias em um único lugar.,TRUE,1001,5,Pendente,Comercial,2020-04-24
+Congresso Internacional de Odontologia de SP,Evento internacional organizado pela Associação Paulista de Cirurgiões Dentistas.,TRUE,1001,6,Pendente,Comercial,2020-04-25
+Expo Noivas & Festas,Produtos e serviços para casamentos e festas com a participação de empresas e profissionais especializados.,TRUE,1001,7,Pendente,Comercial,2020-04-26
+Aniversário da Cidade de São Paulo,A cidade entra em clima de festa para comemorar o dia 25 de janeiro. São diversas atrações em locais espalhados pela capital. Todo ano acontece algo diferente!,TRUE,1001,8,Pendente,Festa,2020-05-30
+ABIMAD,"Feira da Associação Brasileira das Indústrias de Móveis de Alta Decoração voltada a arquitetos, designers e decoradores.",TRUE,1001,9,Pendente,Comercial,2020-05-31
+Campus Party,"O evento de Internet mais importante do mundo nas áreas de: Inovação, Criatividade, Ciência, Empreendedorismo e Entretenimento Digital.",TRUE,1001,10,Pendente,Festa,2020-06-01
+Têxtil House Fair,Feira profissional de negócios e tendências dirigida ao setor de artigos têxteis para casa.,TRUE,1001,11,Pendente,Comercial,2020-06-02
+Brasil Open,"Competição de tênis disputada anualmente em São Paulo, como parte da série de torneios da ATP.",TRUE,1001,12,Pendente,Comercial,2020-06-03
+Carnaval,"Uma das maiores manifestações culturais da cidade, com 95 escolas de samba participantes e 107 mil integrantes. E a festa não se restringe ao Sambódromo: o Carnaval de rua ferve em dezenas de pontos espalhados pela cidade.",TRUE,1001,13,Pendente,Festa,2020-06-04
+500 Milhas de Motovelocidade de Interlagos,"Disputa de longa duração de motocicletas, é reconhecida internacionalmente como a única prova oficial da América Latina.",TRUE,1001,14,Pendente,EventoEsportivo,2020-06-05
+Meia Maratona Internacional de SP,"São 21 km de suor, história e cultura na maior metrópole do hemisfério sul.",TRUE,1001,2,Pendente,EventoEsportivo,2020-06-06
+Festival de Cultura Coreana,Evento que visa expandir a tradição da Coreia do Sul e compartilhar a cultura do país com os brasileiros.,TRUE,1001,3,Pendente,Festa,2020-06-07
+ISC Brasil,A Feira e Conferência Internacional de Segurança é um dos maiores eventos mundiais do ramo de segurança.,FALSE,1001,4,Pendente,Comercial,2020-06-08
+Feicon Batimat,Evento referência no setor de construção civil na América Latina.,FALSE,1001,5,Pendente,Comercial,2020-06-09
